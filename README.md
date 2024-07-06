@@ -5,31 +5,20 @@ In the Nodejs Hall Booking Api i have created the end points for create rooms , 
 Created Rooms With
 
 id
-
 roomName
-
 noOfSeatsAvailable
-
 amenitiesInRoom
-
 pricePerHour
-
 status
 
 Created Bookings With
 
 bookingId
-
 customerName
-
 bookedDate
-
 eventDate
-
 startTime
-
 endTime
-
 roomId
 
 End Points
